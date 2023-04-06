@@ -1,0 +1,7 @@
+{
+  "name": "poetry-line-masher",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
